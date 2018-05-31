@@ -140,7 +140,7 @@ mean(totalsteps2$total_steps)
 median(totalsteps2$total_steps,na.rm=TRUE)
 ```
 
-
+The mean and median total steps per day are now the same. With imputed values, the mean and median are now higher. 
 
 ##Activity Pattern of Weekdays vs Weekends
 
